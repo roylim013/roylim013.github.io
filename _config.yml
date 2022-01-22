@@ -1,2 +1,3 @@
 name: Roy Lim
 markdown: kramdown
+permalink: /projects/:year/:month/:day/:title
